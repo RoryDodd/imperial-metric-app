@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">America/Australia Converter</string>
+    <string name="weather">Weather</string>
+    <string name="enterValue">Enter Value</string>
+    <string name="measure">Measurements</string>
+    <string name="miles">Miles</string>
+    <string name="km">Km</string>
+    <string name="gallons">Gallons</string>
+    <string name="liters">Liters</string>
+    <string name="pounds">Pounds</string>
+    <string name="kg">Kg</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="currency">Currency Exchange</string>
+    <string name="exchange">Exchange Rate</string>
+    <string name="amount">Amount</string>
+    <string name="us">USD</string>
+    <string name="au">AUD</string>
+    <string name="exit">Exit</string>
+</resources>
